@@ -1,0 +1,30 @@
+<?php
+// Text
+$_['text_information']  = 'Information';
+$_['text_service']      = 'Customer Service';
+$_['text_extra']        = 'Extras';
+$_['text_contact']      = 'Contact Us';
+$_['text_return']       = 'Returns';
+$_['text_sitemap']      = 'Site Map';
+$_['text_manufacturer'] = 'Brands';
+$_['text_voucher']      = 'Gift Vouchers';
+$_['text_affiliate']    = 'Affiliates';
+$_['text_special']      = 'Specials';
+$_['text_account']      = 'My Account';
+$_['text_order']        = 'Order History';
+$_['text_wishlist']     = 'Wish List';
+$_['text_newsletter']   = 'Newsletter';
+$_['text_description']   = '<p><b>WOWFlashy.com</b> is a brand exclusively for Women fashion lovers, to explore current trend in accessories. It makes you say WOW and surprise you with every product.</p>';
+$_['title_payment']   = 'Payments';
+$_['text_privacy_policy']   = 'Privacy Policy';
+$_['text_address']   = 'Address';
+$_['text_phone']   = 'Phone';
+$_['text_email']   = 'Email';
+$_['text_infomation']   = 'Infomation';
+$_['text_services']   = 'Our services';
+$_['shipping_returns']   = 'Shipping & Returns';
+$_['secure_shopping']   = 'Secure Shopping';
+$_['international_shipping']   = 'International Shipping';
+$_['affiliates']   = 'Affiliates';
+$_['custom_link']   = 'Custom Link';
+$_['text_powered']      = 'Copyright &copy; 2017 <a href="https://www.wowflashy.com">wowflashy.com</a>. All rights reserved.';
