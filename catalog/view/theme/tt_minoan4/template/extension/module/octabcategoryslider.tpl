@@ -89,7 +89,7 @@ $(document).ready(function() {
 											  <?php if (!$product['special']) { ?>
 											  <?php echo $product['price']; ?>
 											  <?php } else { ?>
-											  <span class="price-new"><?php echo $product['special']; ?></span>
+											  <span class="price-new"><?php echo $product['special']; ?></span> <span class="price-old"><?php echo $product['price']; ?></span>
 											  <?php } ?>
 											</div>
 											<?php } ?>
